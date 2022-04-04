@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @victoriastrobel
 - 👀 I’m interested in Software and App Develobment
-- 🌱 I’m currently learning Flutter
+
 
 
 <!---
-
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
