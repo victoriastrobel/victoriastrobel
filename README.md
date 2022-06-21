@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @victoriastrobel
-- 👀 I’m interested in Software and App Develobment
+<!-- 👋 Hi, I’m @victoriastrobel
+- 👀 I’m interested in Software and App Develobment--->
 
 
 
